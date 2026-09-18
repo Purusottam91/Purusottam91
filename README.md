@@ -62,20 +62,10 @@ Movie application built using Django.
 
 **Tech:** Python, Django, HTML, CSS, JavaScript
 
-### 🍔 Food Delivery Application
-Full-stack food delivery application with a React frontend.
-
-**Tech:** React, JavaScript, REST API
-
 ### 🤖 Food Suggestion AI
 Recommendation system using TF-IDF and cosine similarity.
 
 **Tech:** Python, Pandas, Scikit-learn
-
-### 🖐️ Hand Gesture Recognition
-Real-time hand gesture recognition application.
-
-**Tech:** Python, OpenCV, MediaPipe
 
 ---
 
